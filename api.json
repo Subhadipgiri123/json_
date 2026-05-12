@@ -6,7 +6,7 @@
         "profession": "Web Developer",
         "city": "Contai",
         "country": "India",
-        "skills": ["c","c++","Python","DSA", "PHP", "JavaScript", "SQL"],
+        "skills": ["c","Python","DSA", "PHP", "JavaScript","DBMS", "SQL","HTML","CSS","BOOTSTRAP"],
         "phone": "7501772638",
         "email": "subhadip12345@gmail.com",
         "image":"images/my_pic.jpg",
