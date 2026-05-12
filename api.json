@@ -1,0 +1,39 @@
+{
+    "personalInfo": {
+        "name": "Subhadip Giri",
+        "age": 21,
+        "course": "BCA",
+        "profession": "Web Developer",
+        "city": "Contai",
+        "country": "India",
+        "skills": ["c","c++","Python","DSA", "PHP", "JavaScript", "SQL"],
+        "phone": "7501772638",
+        "email": "subhadip12345@gmail.com",
+        "image":"images/my_pic.jpg"
+    },
+    "education": {
+        "school": "Champatala High School",
+        "college": "Contai College Of Learning & Management Science",
+        "university": "Maulana Abul Kalam Azad University of Technology"
+    },
+    "projects":[
+        {
+            "name": "Blinkit Clone",
+            "description": "A clone of the Blinkit website for learning purposes.",
+            "technologies": ["HTML", "CSS"],
+            "link": "https://subhadipgiri123.github.io/blinkit_project_/"
+        },
+        {
+            "name": "Myntra Clone",
+            "description": "A clone of the Myntra website for extended learning Process.",
+            "technologies": ["HTML", "CSS"],
+            "link": "https://subhadipgiri123.github.io/myntra/"
+        },
+        {
+            "name": "Peerless healthcare Center",
+            "description": "A clone of the Peerless healthcare website for learning purposes.",
+            "technologies": ["HTML", "CSS","JS","PHP","MYSQL"],
+            "link": "https://subhadipgiri123.github.io/peerless__/"
+        }
+    ]   
+}
