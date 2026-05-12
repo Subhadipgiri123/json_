@@ -9,7 +9,13 @@
         "skills": ["c","c++","Python","DSA", "PHP", "JavaScript", "SQL"],
         "phone": "7501772638",
         "email": "subhadip12345@gmail.com",
-        "image":"images/my_pic.jpg"
+        "image":"images/my_pic.jpg",
+        "address": {
+            "street": "Rupnagar",
+            "city": "Contai",
+            "state": "West Bengal",
+            "pinCode": "721442"
+        }
     },
     "education": {
         "school": "Champatala High School",
